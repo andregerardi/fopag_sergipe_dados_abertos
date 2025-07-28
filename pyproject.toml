@@ -1,0 +1,11 @@
+[project]
+name = "2025-projeto-sergipe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "pandas>=2.2.3",
+    "regex>=2024.11.6",
+]
