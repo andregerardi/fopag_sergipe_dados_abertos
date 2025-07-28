@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Extração de Dados - Portal da Transparência de Sergipe
 
 Este projeto realiza a raspagem automatizada dos dados de **folha de pagamento** disponíveis no [Portal da Transparência do Estado de Sergipe](https://www.transparencia.se.gov.br/Pessoal/PorOrgao.xhtml), consolidando as informações em um único arquivo CSV.
@@ -120,5 +119,3 @@ Os dados por orgão estão na pasta dowloads.
 ## 📄 Fonte de documentação
 
 - Documentação do padrão Serigy: [TCE-SE - Recursos Humanos](https://serigy.tce.se.gov.br/comum/recursos-humanos.html#_6-1-folha-de-pagamento)
-
->>>>>>> 110e546 (Fopag nova)
